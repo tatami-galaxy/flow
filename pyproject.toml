@@ -8,6 +8,7 @@ dependencies = [
     "flow-matching>=1.0.10",
     "jupyterlab>=4.4.2",
     "matplotlib>=3.10.1",
+    "notebook>=7.4.2",
     "scikit-learn>=1.6.1",
     "torch>=2.7.0",
     "torchaudio>=2.7.0",
