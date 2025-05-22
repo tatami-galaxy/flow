@@ -3,14 +3,13 @@ name = "flow"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
-requires-python = ">=3.13"
+requires-python = ">=3.12"
 dependencies = [
-    "flow-matching>=1.0.10",
+    "fairseq2>=0.4.5",
+    "ipywidgets>=8.1.7",
     "jupyterlab>=4.4.2",
-    "matplotlib>=3.10.1",
     "notebook>=7.4.2",
-    "scikit-learn>=1.6.1",
-    "torch>=2.7.0",
-    "torchaudio>=2.7.0",
-    "torchvision>=0.22.0",
+    "sonar-space>=0.4.0",
+    "torch==2.6.0",
+    "torchvision>=0.21.0",
 ]
